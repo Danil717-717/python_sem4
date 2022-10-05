@@ -12,4 +12,4 @@ def prime_factors(n):
             n //= i
         i += 1
 
-prime_factors(int(input("Введите число: ")))        
+prime_factors(int(input("Введите натуральное число: ")))        
