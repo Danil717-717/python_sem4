@@ -39,7 +39,7 @@ num(input("Введите число: "))
 
 # --------------------------------------- 2 вариант
 
-num = float(input('Enter a real number: '))
+#num = float(input('Enter a real number: '))
 
-_, accu = input("Enter the required accuracy '0.0001': ").split(".")
-print(f"{num:.{len(accu)}f}")
+#_, accu = input("Enter the required accuracy '0.0001': ").split(".")
+#print(f"{num:.{len(accu)}f}")
